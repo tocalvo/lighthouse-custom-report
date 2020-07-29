@@ -1,0 +1,14 @@
+{
+  "name": "lighthouse-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^6.1.1"
+  }
+}
