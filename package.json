@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lighthouse": "^6.1.1"
+    "lighthouse": "^9.6.8"
   }
 }
